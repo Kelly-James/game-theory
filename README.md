@@ -1,2 +1,2 @@
 Hello,
-Here is the GitHub practive file.
+Here is the GitHub practice file.
