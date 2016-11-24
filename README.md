@@ -1,4 +1,4 @@
-Hello,
+Hello this is KJ, making changes to README.
 Here is the GitHub practice file.
 
 As a user, I can create a new game.
