@@ -1,4 +1,4 @@
-Hello this is KJ, making changes to README.
+Hello,
 Here is the GitHub practice file.
 
 As a user, I can create a new game.
@@ -51,5 +51,5 @@ As a user, I get a confirmation dialog box if I try to quit an active game.
 Add Comment
 =======
 
-
+**This is Kelly editing the file for practice.**
 **This is Jamal editing the file for practice.**
