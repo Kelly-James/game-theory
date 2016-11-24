@@ -50,4 +50,6 @@ As a user, I get a confirmation dialog box if I try to quit an active game.
 
 Add Comment
 =======
->>>>>>> 0bdc52ba9dc0988deefd81b556d3f3e7f2d486f2
+
+
+**This is Jamal editing the file for practice.**
